@@ -6,7 +6,7 @@ import { withRouter } from "react-router";
 import {Link} from "react-router-dom";
 import Navigation from '../Navigation/Navigation';
 
-require('./Header.scss');
+require('./Header.css');
 
 export const HeaderEditConfig = {
 

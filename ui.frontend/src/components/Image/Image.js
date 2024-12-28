@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import {MapTo} from '@adobe/aem-react-editable-components';
 
-require('./Image.scss');
+require('./Image.css');
 
 export const ImageEditConfig = {
 

@@ -3,7 +3,7 @@ import {MapTo} from '@adobe/aem-react-editable-components';
 import {Link} from "react-router-dom";
 
 
-require('./Navigation.scss');
+require('./Navigation.css');
 
 const NavigationEditConfig = {
 

@@ -18,7 +18,7 @@ export default class Custom extends Component {
         }
 
         return (
-            <div className="CustomComponent">
+            <div className="CustomComponent csc">
                 <h2 className="CustomComponent__message">{this.props.message}</h2>
             </div>
         );

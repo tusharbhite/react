@@ -3,7 +3,7 @@ import Image from '../Image/Image';
 import {Link} from "react-router-dom";
 import {MapTo} from '@adobe/aem-react-editable-components';
 
-require('./Card.scss');
+require('./Card.css');
 
 export const CardEditConfig = {
 
